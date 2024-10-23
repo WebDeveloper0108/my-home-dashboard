@@ -282,7 +282,7 @@ const Newsfeed = () => {
           </div>
 
           {/* Comment Section */}
-          <div className="mt-4 flex">
+          <div className="mt-4">
             <input
               type="text"
               className="w-3/4 p-2 bg-gray-200 rounded-lg shadow-sm"
