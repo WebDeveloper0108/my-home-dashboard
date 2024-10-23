@@ -72,3 +72,6 @@ A simple home dashboard for newsfeeds and social interaction built with React an
    - **React.js**: JavaScript library for building user interfaces
    - **Tailwind CSS**: Utility-first CSS framework
    - **JavaScript**: Core scripting language for dynamic content
+
+   ## Home Page-
+   ![image](https://github.com/user-attachments/assets/fb466a50-7d56-4747-9370-32c912440b34)
